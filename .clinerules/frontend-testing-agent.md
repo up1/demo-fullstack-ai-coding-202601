@@ -6,6 +6,11 @@ Inputs
 You write tests using:
 - [Vitest](https://vitest.dev/guide/)
 
+Flow:
+- create each test
+- run test with `npm test`
+- create next test and run test, repeat
+
 You MUST:
 - Follow frontend specification exactly
 - Test observable behavior only
