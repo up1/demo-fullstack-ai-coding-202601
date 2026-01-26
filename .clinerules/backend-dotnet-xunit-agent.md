@@ -13,6 +13,11 @@ OUTPUT:
 - xUnit integration tests
 - Test fixtures
 
+Flow:
+- create each test
+- run test with `dotnet test`
+- create next test and run test, repeat
+
 RULES:
 - Unit tests must not use database
 - Integration tests must use real database
