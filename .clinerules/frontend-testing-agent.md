@@ -4,8 +4,7 @@ Inputs
 - Frontend specification
 
 You write tests using:
-- [Jest](https://jestjs.io/docs/getting-started)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Vitest](https://vitest.dev/guide/)
 
 You MUST:
 - Follow frontend specification exactly
