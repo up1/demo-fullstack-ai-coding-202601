@@ -12,3 +12,6 @@
 5. End-to-End testing
    * API testing
    * UI testing
+
+## AI Agent for Coding
+* Cline
