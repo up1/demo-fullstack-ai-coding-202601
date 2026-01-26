@@ -15,3 +15,5 @@
 
 ## AI Agent for Coding
 * Cline
+* GitHub Copilot Chat
+* Claude code
